@@ -1,0 +1,141 @@
+.container{
+    margin: 2px, 10px;
+    background-color:whitesmoke;
+}
+nav ul{
+    display: flex;
+    list-style-type:none;
+    float: right;
+    margin-right: 100px;
+    
+    
+    
+}
+nav ul li{
+    padding: 20px;
+    font-size: 20px;
+    font-weight: 700;
+    
+}
+
+
+.sharukh-part{
+    
+    width: 1350px;
+    height: 500px; 
+    margin: 25px 20px;
+    
+    display: flex;
+    align-items: center;
+    
+    
+}
+p{
+    font-size: 20PX;
+}
+
+h1{
+    font-size: 50PX;
+}
+.name, .color{
+    color: hsl(9, 100%, 64%);
+}
+button{
+    font-size: 15px;
+    padding: 20px 30px;
+    border: none;
+    border-radius: 5px;
+    background-color: hsl(9, 100%, 64%);
+}
+.img-actor{
+    width: 70%;
+    margin-left: 130px;
+}
+.img-actor-1{
+    width: 70%;
+    margin-left: 0px;
+}
+
+
+.project{
+    
+    width: 1350px;
+    height: 600px; 
+    margin: 25px 20px;
+    
+    
+}
+
+.img-size{
+    width: 100%;
+}
+.project-h1{
+    margin-left: 350px;
+    margin-top: 10px;
+}
+.project-division{
+    display: flex;
+    align-items: center;
+    
+    
+}
+.box-shadow{
+    margin: 40px;
+    box-shadow: 5px 5px 5px wheat;
+    border-radius: 5px;
+}
+
+.work{
+    
+    width: 1350px;
+    height: 300px; 
+    margin: 25px 20px;
+    
+    
+}
+
+.work-division{
+    display: flex;
+    align-items: center;
+    
+    height: 200px;
+    width: 1000px;
+    border-radius: 20px;
+    
+    background-image: url("images/Group_33094_1.png");
+    background-attachment: fixed;
+    margin-top: 100px;
+    margin-left: 170px;
+    
+    
+}
+
+.work-division h1{
+    margin-left: 60px;
+    color: white;
+    
+}
+.work-division button{
+    margin-left: 340px;
+    
+}
+
+.address-section{
+   
+    width: 1350px;
+    height: 300px; 
+    margin: 25px 20px;
+}
+
+.address-division{
+       text-align: center;
+       
+}
+
+.address-division img{
+    width: 50px;
+    padding: 20px;
+}
+
+
+   
